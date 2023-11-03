@@ -34,9 +34,16 @@ a{
 p{
 	text-align:left;
 }
+.player_one{
+	background-color: rgb(255, 255, 255);
+}
+.player_two{
+	background-color: rgb(255, 255, 255);
+}
 video{
 	width:100%;
 }
 audio{
 	width:100%;
+	border-radius:20px;
 }
